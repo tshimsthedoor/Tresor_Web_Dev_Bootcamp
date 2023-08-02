@@ -1,0 +1,25 @@
+h2 {
+  color: blue;
+}
+h3,
+h4 {
+  color: red;
+}
+
+button {
+  background-color: magenta;
+  color: tomato;
+}
+
+p {
+  background-color: aquamarine;
+}
+
+ul {
+  color: brown;
+}
+
+li {
+  background-color: yellowgreen;
+  
+}
