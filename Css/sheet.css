@@ -1,9 +1,16 @@
+
+body {
+    background-color: #ededed;
+}
 h2 {
   color: blue;
 }
 h3,
 h4 {
   color: red;
+}
+h5 {
+    background-color: rgb(89, 158, 220);
 }
 
 button {
@@ -16,10 +23,10 @@ p {
 }
 
 ul {
-  color: brown;
+  color: rgb(125, 100, 90)
 }
 
 li {
-  background-color: yellowgreen;
+  background-color: #fdf
   
 }
