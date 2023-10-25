@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  font-weight: 700;
+  text-decoration: #455677 underline wavy;
+  letter-spacing: 14px;
+  font-size: 25px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-transform: uppercase;
+}
+p {
+  text-align: left;
+  line-height: 2;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  padding: 2px;
+  margin: 5px;
+}
+
+img .cuttlefish {
+  padding-right: 20em;
+  background-color: red;
+}
